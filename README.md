@@ -5,7 +5,7 @@
 Hi 👋, I'm Vijay
 
 # 💫 About Me:
-🔭 I’m currently working in Centrico India.<br>💼 3+ Years of Experience in Outsystems, 4x Outsystem Certified.<br>🌱 I’m currently learning Cloud - AWS, Linux Shell scripting & Java 8, Spring and Spring Boot. <br>📫 Reach me via mail id : vijayr7.dev@gmail.com <br>
+🔭 I’m currently working in Centrico India.<br>💼 3+ Years of Experience in Outsystems, 4x Outsystem Certified.<br>🌱 I’m currently learning Cloud - AWS, Linux Shell scripting & Java 8, Spring and Spring Boot and also leveraging outsystems. <br>📫 Reach me via mail id : vijayr7.dev@gmail.com <br>
 
 
 ## 🌐 Socials:
