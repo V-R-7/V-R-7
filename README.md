@@ -26,7 +26,7 @@ I specialize in building scalable, user-focused enterprise applications. My jour
 - **.NET**
 - **Core Java**
 - **BASH**
-- **Cloud Beginner - AWS, Azure**
+- **Experimenting with Cloud - AWS, Azure**
 
 ---
 
