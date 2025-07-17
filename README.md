@@ -1,7 +1,7 @@
 # Hi there, I'm Vijay 👋
 
 Welcome to my GitHub!  
-I'm a passionate Senior Outsystems Developer with passionate experience across:
+I'm a passionate Senior Outsystems Developer with experience across:
 
 - **Outsystems 11** (Fullstack)
 -  **OutSystems Developer Cloud (ODC)**
