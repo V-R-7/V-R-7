@@ -14,7 +14,7 @@ I'm a passionate Senior Outsystems Developer with experience across:
 
 ### 💡 About Me
 
-I specialize in building scalable, user-focused enterprise applications. My journey blends rapid low-code solutions with robust custom logic—always striving for elegant, maintainable code.
+I specialize in building scalable, user-focused enterprise applications. My journey blends rapid low-code solutions with robust custom logic. Always striving for elegant, maintainable code.
 
 ---
 
